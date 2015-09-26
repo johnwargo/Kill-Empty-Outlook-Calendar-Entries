@@ -102,7 +102,7 @@ begin
           msgText := Format('Deleting item %d', [i]);
           output.Lines.add(msgText);
           // Uncomment the following line when you're ready to delete entries
-          oiItem.Delete;
+          // oiItem.Delete;
         end;
       end;
       output.Lines.add('All done!');
