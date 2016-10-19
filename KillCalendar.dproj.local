@@ -2,8 +2,8 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>2015/09/24 17:08:13.000.280,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2015/09/24 17:09:05.000.417,D:\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\dev\McNelly SoftWorks\Outlook Stuff\kc_main.dfm</Transaction>
-    <Transaction>2015/09/24 17:09:05.000.417,D:\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\dev\McNelly SoftWorks\Outlook Stuff\kc_main.pas</Transaction>
-    <Transaction>2015/09/24 17:09:10.000.181,D:\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\dev\McNelly SoftWorks\Outlook Stuff\KillCalendar.dproj</Transaction>
+    <Transaction>2015/09/24 17:09:05.000.417,D:\dev\McNelly SoftWorks\Outlook Stuff\kc_main.dfm=D:\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2015/09/24 17:09:05.000.417,D:\dev\McNelly SoftWorks\Outlook Stuff\kc_main.pas=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/09/24 17:09:10.000.181,D:\dev\McNelly SoftWorks\Outlook Stuff\KillCalendar.dproj=D:\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
   </Transactions>
 </BorlandProject>
